@@ -7,19 +7,19 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Farmer</copyright>
-    <lastBuildDate>Fri, 24 Apr 2026 13:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:31:50 +0000</lastBuildDate>
     <atom:link href="https://farmer152.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日记</title>
       <link>https://farmer152.github.io/diary/</link>
-      <pubDate>Fri, 24 Apr 2026 13:27:14 +0000</pubDate>
+      <pubDate>Fri, 24 Apr 2026 13:31:50 +0000</pubDate>
       <guid>https://farmer152.github.io/diary/</guid>
       <description></description>
     </item>
     <item>
       <title>作品</title>
       <link>https://farmer152.github.io/works/</link>
-      <pubDate>Fri, 24 Apr 2026 13:27:14 +0000</pubDate>
+      <pubDate>Fri, 24 Apr 2026 13:31:50 +0000</pubDate>
       <guid>https://farmer152.github.io/works/</guid>
       <description>&lt;h1 id=&#34;游戏作品&#34;&gt;游戏作品&lt;/h1&gt;
 &lt;h2 id=&#34;gamejam&#34;&gt;GameJam&lt;/h2&gt;
@@ -30,11 +30,11 @@
 &lt;/ul&gt;</description>
     </item>
     <item>
-      <title>明朝牛逼</title>
+      <title>这是我的个人博客</title>
       <link>https://farmer152.github.io/posts/post1/</link>
       <pubDate>Fri, 24 Apr 2026 17:15:52 +0800</pubDate>
       <guid>https://farmer152.github.io/posts/post1/</guid>
-      <description>异环牛逼</description>
+      <description>我会慢慢更新的&amp;hellip;&amp;hellip;</description>
     </item>
   </channel>
 </rss>
