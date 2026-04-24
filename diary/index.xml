@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>日记 on Farmer&#39;s Blog</title>
+    <link>https://farmer152.github.io/diary/</link>
+    <description>Recent content in 日记 on Farmer&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>Farmer</copyright>
+    <lastBuildDate>Fri, 24 Apr 2026 14:03:29 +0000</lastBuildDate>
+    <atom:link href="https://farmer152.github.io/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20260424</title>
+      <link></link>
+      <pubDate>Fri, 24 Apr 2026 14:03:29 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;今天建了一个个人博客网站&lt;br&gt;
+我大概会在这里写日记吧&lt;br&gt;
+我真的会写日记吗&amp;hellip;&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
